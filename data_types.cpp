@@ -7,7 +7,6 @@ int main(){
     int b = 5;
     cout<<"The value of a is: "<<a<<" and the value of b is: "<<b;*/
 
-
     //float data type
     // float pi=3.14;
     // cout<<"this is the value of pi:"<<pi;
