@@ -11,7 +11,6 @@ int main(){
     // float pi=3.14;
     // cout<<"this is the value of pi:"<<pi;
 
-
     // character data type
     // char c = 'A';
     // cout<<"The value of c is "<<c;
